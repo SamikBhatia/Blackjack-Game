@@ -2,9 +2,6 @@
  * Samik Bhatia
  * 12 January, 2022
  * 
- * Culminating activity:
- * Simple blackjack game/program that replicates the casino game
- * and implements concepts learnt throughout the course.
  */
 //importing required libraries
 import java.io.File;
