@@ -1,0 +1,19 @@
+
+- Players must place their desired bet before cards are dealt. The dealer deals two cards to 
+the player and two cards for themself-one of them unknown to both participants. Each card 
+retains its respective value. The only exception to this is: face cards all have a value of 
+10 and aces, depending on the player's choice or the hand dealt, can have a value of either 
+1 or 11. 
+
+- Since this is a numeric game, all the suits will be nullified and replaced by numeric 
+values. For number cards, the values are the same as original. The initial cards dealt 
+will be displayed in the form of a sum for the player and a single number for the dealer.
+Cards dealt after that will be added on to the hand.
+
+- Players must choose between hitting or standing. If players are content with their hand, the 
+dealer may turn over their second card. The dealer must then deal cards until their own hand 
+reaches a value of 17 or more.
+
+- If the player's hand sum is higher than that of the dealer's and lower than 21, they win money 
+equivalent to their bet-if not, they bust. If the dealer busts, the player wins. Blackjack is 
+achieved only when either dealer or player reach exactly 21.
