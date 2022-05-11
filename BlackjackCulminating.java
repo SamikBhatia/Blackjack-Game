@@ -185,7 +185,6 @@ public class BlackjackCulminating {
 			//asking user if they want to play again and collecting input accordingly
 			System.out.print("\nDo you want to play again?: ");
 			redo = scan.nextLine();
-			scan.close();
 		
 		}
 		
