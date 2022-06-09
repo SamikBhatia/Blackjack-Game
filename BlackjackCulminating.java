@@ -159,7 +159,7 @@ public class BlackjackCulminating {
 				
 			} else if (dealer < player && player < 21) {
 				
-				//outputting final hand values and "you lose" message
+				//outputting final hand values and "you win" message
 				System.out.print("\nDealer's hand: " + dealer);
 				System.out.println("\nYour hand: " + player);
 				System.out.println("\n--- " + messages[2] + " ---");
